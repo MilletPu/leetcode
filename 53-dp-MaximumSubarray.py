@@ -31,3 +31,4 @@ if __name__ == '__main__':
     s = Solution()
     print s.maxSubArray([-1, 2, -3, 1, 3, 4, -4, 6])
     print s.maxSubArray_record_series([-1, 2, -3, 1, 3, 4, -4, 6])
+
