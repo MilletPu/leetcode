@@ -3,7 +3,7 @@
 # 之前做121的时候已经提到过了：请参考http://milletpu.com/2017/04/21/leet-dp-121/
 
 
-class Solution:
+class Solution(object):
     # 只要求给出最后的和。
     def maxSubArray(self, A):
         maxCur = Result = A[0]  # init = A[0]
